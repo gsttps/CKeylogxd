@@ -1,6 +1,6 @@
-# Keylogger en C para Windows (esto lo hice solo con fines educativos)
+# Keylogger en C para Windows (esto lo hice solo con fines de aprendizaje)
 
-Este proyecto es un **keylogger simple en lenguaje C** para Windows, desarrollado con fines **educativos y de laboratorio de ciberseguridad**.
+Esto es un **keylogger simple en lenguaje C** hecho para Windows
 
 ## ⚠️ Advertencia ética
 
