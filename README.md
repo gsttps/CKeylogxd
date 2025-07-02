@@ -6,7 +6,7 @@ Esto es un **keylogger simple en lenguaje C** hecho para Windows
 
 Este codigo solo es para aprender o si se usa es para entornos seguros y controlados, **no uses esto en sistemas ajenos sin consentimiento.**
 
-- Por  el momento solo  es de prueba y si me acuerdo  y tengo tiempo lo ire mejorando
+- Por  el momento solo  es de prueba, si me acuerdo  y tengo tiempo lo ire mejorando
 
 ## 📦 Estructura
 
