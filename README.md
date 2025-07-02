@@ -4,7 +4,7 @@ Esto es un **keylogger simple en lenguaje C** hecho para Windows
 
 ## ⚠️ Advertencia ética
 
-Este codigo solo es para aprender o si se usa es para entornos seguros y controlados, **Nunca uses esto en sistemas ajenos sin consentimiento.**
+Este codigo solo es para aprender o si se usa es para entornos seguros y controlados, **no uses esto en sistemas ajenos sin consentimiento.**
 
 ## 📦 Estructura
 
@@ -21,4 +21,3 @@ Este codigo solo es para aprender o si se usa es para entornos seguros y control
    ```bash
    gcc src/keylogger.c -o build/keylogger.exe -mwindows
 - si  lo ejecutas, desde el admin de tareas busca keylogger.exe y listo
-```
