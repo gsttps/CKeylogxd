@@ -4,7 +4,7 @@ Este proyecto es un **keylogger simple en lenguaje C** para Windows, desarrollad
 
 ## ⚠️ Advertencia ética
 
-Este software solo debe ser usado en entornos controlados, con fines de aprendizaje o para revisar su codigo. **Nunca uses esto en sistemas ajenos sin consentimiento explícito.**
+Este codigo solo es para aprender o si se usa es para entornos seguros y controlados, **Nunca uses esto en sistemas ajenos sin consentimiento.**
 
 ## 📦 Estructura
 
@@ -15,10 +15,10 @@ Este software solo debe ser usado en entornos controlados, con fines de aprendiz
 
 ## 🚀 Compilación
 
-Con MinGW:
+1. Abre **PowerShell** o **CMD** en la carpeta raíz del proyecto.
+2. Compila con:
 
-```bash
-gcc src/keylogger.c -o build/keylogger.exe
-
+   ```bash
+   gcc src/keylogger.c -o build/keylogger.exe -mwindows
 - si  lo ejecutas, desde el admin de tareas busca keylogger.exe y listo
 ```
