@@ -20,4 +20,4 @@ Este codigo solo es para aprender o si se usa es para entornos seguros y control
 
    ```bash
    gcc src/keylogger.c -o build/keylogger.exe -mwindows
-- si  lo ejecutas, desde el admin de tareas busca keylogger.exe y listo
+- si  lo ejecutas, para cerrarlo abre el admin de tareas busca keylogger.exe y listo
